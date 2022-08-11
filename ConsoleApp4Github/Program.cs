@@ -10,6 +10,7 @@ namespace ConsoleApp4Github
             Console.WriteLine("Today is thursday");
             Console.WriteLine("Enter the number of training sessions:");
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello"); Console.WriteLine("Hello");
 
         }
     }
