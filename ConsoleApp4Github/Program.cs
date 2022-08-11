@@ -8,6 +8,7 @@ namespace ConsoleApp4Github
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Today is thursday");
+
         }
     }
 }
