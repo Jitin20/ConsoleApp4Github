@@ -8,7 +8,8 @@ namespace ConsoleApp4Github
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Today is thursday");
-            Console.WriteLine("Enter the number of training sessions: ");
+            Console.WriteLine("Enter the number of training sessions:  1111 ");
+
         }
     }
 }
